@@ -15,7 +15,8 @@ export const Skills = () => {
     <>
     <section id="skills" className="skills-container">
         <div className="img-skills-container">
-        <img className="img-skills" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,nodejs,javascript,express,mongodb " alt="" />
+        <img className="img-skills" height={"40px"} src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,figma " alt="" /> <br /> <br />
+        <img className="img-skills" height={"40px"}src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb " alt="" /> <br /> <br />
 
         </div>
         <h5>Technical Proficency</h5>
