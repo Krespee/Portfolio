@@ -8,6 +8,7 @@ export const SKILLS = [
             {skill: "JavaScript", percentage: "90%"},
             {skill: "React.js", percentage: "85%"},
             {skill: "TypeScript", percentage: "95%"},
+            {skill: "Next.js 14", percentage: "80%"},
         ]
     },
     {
@@ -29,6 +30,7 @@ export const SKILLS = [
             {skill: "Figma", percentage: "50%"},
             {skill: "Bootstrap", percentage: "80%"},
             {skill: "Responsive Design", percentage: "75%"},
+            {skill: "Netlify", percentage: "75%"},
         ]
     },
     {
